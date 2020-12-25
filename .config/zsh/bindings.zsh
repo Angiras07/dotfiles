@@ -6,7 +6,7 @@ bindkey -- '^A'   beginning-of-line
 
 # vi bindings
 bindkey -v
-export KEYTIMEOUT=200
+export KEYTIMEOUT=20
 
 # change escape
 bindkey -M viins 'ff' vi-cmd-mode
