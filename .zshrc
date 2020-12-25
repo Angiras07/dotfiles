@@ -33,7 +33,7 @@ source $HOME/.config/zsh/plugins/fzf/key-bindings.zsh
 
 # required by some packages
 export EDITOR='/usr/bin/nvim'
-export TERMINAL='/usr/bin/st'
+export TERMINAL='/usr/bin/alacritty'
 export VISUAL='/usr/bin/nvim'
 
 # 'p10k configure' to edit prompt
